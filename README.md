@@ -18,3 +18,12 @@ Step-4 To Analyze the CA-O5 contact
 Step-5 Analyze Heavy Atom Contacts
        bash script-analysis-heavy-atom-0.40.sh
 ##################END##################################
+
+
+For machine learning 
+proc.sh
+gen_test.cpp
+gen_train.cpp
+
+run by (in working directory gen_test.cpp, gen_train.cpp and input file must present) 
+./proc.sh 
