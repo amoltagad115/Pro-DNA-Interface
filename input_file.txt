@@ -1,0 +1,2 @@
+Input file;
+PDB-ID     ELEC        LJ        Matrix_sum    Total
